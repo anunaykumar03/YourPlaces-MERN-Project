@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DATABASE_USER": "anunaykumar",
+        "DATABASE_PASS": "anunay",
+        "DATABASE_NAME": "mern",
+        "GOOGLE_API_KEY": "AIzaSyDfvUahdrz-Y193R6YyV72gCZGwZynlec8",
+        "JWT_KEY": "secret_key"
+    }
+}
